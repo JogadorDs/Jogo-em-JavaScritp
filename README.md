@@ -1,1 +1,1 @@
-# Jogo-em-JavaScritp
+# Jogo Run Wizard Scratch
